@@ -19,24 +19,25 @@ color: black;
 
 .NavCustom{
 height: 100px;
-/* background-color: brown; */
+background-color: brown;
 position: fixed;
 top: 0px;
 }
+
 
 /* Fine Navbar */
 
 /* Header */
 
 .headercustom{
-/* background-color: red; */
-margin-top: 150px;
-height: 100px;
+/* background-color: red;  */
+margin-top: 70px;
+height: 100vh;
 }
 
 .imgheader{
 background-image: url(./Media/retro-futuristic-80s-background-free-vector.jpg);
-height: 50vh;
+height:100vh;
 background-position: center;
 background-size: cover;
 
@@ -46,8 +47,20 @@ h1{
 font-size: xx-large;
 color: white;
 flex-wrap: wrap;
+}
 
+/* Fine Header */
+
+/* Sezione */
+
+.H2Custom{
+height: 100vh;
+}
+
+.persezioni{
+margin-top: 20px;
 
 
 }
+
 
