@@ -3,4 +3,27 @@ top: 0px;
 padding: 0px;
 }
 
+/* Navbar */
+
+li{
+list-style: none;
+font-size: larger;
+}
+
+a{
+text-decoration: none;
+color: black;
+
+}
+
+
+.NavCustom{
+height: 100px;
+/* background-color: brown; */
+position: fixed;
+}
+
+/* Fine Navbar */
+
+
 
