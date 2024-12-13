@@ -21,9 +21,33 @@ color: black;
 height: 100px;
 /* background-color: brown; */
 position: fixed;
+top: 0px;
 }
 
 /* Fine Navbar */
 
+/* Header */
 
+.headercustom{
+/* background-color: red; */
+margin-top: 150px;
+height: 100px;
+}
+
+.imgheader{
+background-image: url(./Media/retro-futuristic-80s-background-free-vector.jpg);
+height: 50vh;
+background-position: center;
+background-size: cover;
+
+}
+
+h1{
+font-size: xx-large;
+color: white;
+flex-wrap: wrap;
+
+
+
+}
 
